@@ -1,14 +1,14 @@
 {
   "name": "vinberodb-http-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An HTTP adapter for VinberoDB",
   "main": "build/index.js",
   "scripts": {
-    "build": "rm -rf build && babel src --out-dir build --ignore tests",
+    "build": "rm -rf build && babel src --out-dir build --ignore tests/",
     "create-project-symlink": "scripts/create-project-symlink.sh",
     "lint": "eslint src",
     "postinstall": "npm run create-project-symlink",
-    "prepublish": "npm run build",
+    "prepublishOnly": "npm run build",
     "test": "mocha -r babel-register --recursive src/tests --timeout 5000"
   },
   "repository": {
