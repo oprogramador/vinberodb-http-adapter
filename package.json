@@ -44,7 +44,7 @@
     "sinon": "^2.1.0",
     "sinon-as-promised": "^4.0.3",
     "sinon-chai": "^2.9.0",
-    "vinberodb-test-helpers": "^1.1.4"
+    "vinberodb-test-helpers": "^1.1.5"
   },
   "dependencies": {
     "superagent": "^3.8.2"
