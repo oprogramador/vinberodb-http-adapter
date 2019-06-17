@@ -48,6 +48,6 @@
     "vinberodb-test-helpers": "^2.0.1"
   },
   "dependencies": {
-    "superagent": "^5.0.9"
+    "superagent": "^5.1.0"
   }
 }
