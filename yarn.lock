@@ -3935,10 +3935,10 @@ vary@~1.1.2:
   resolved "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
-vinberodb-test-helpers@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/vinberodb-test-helpers/-/vinberodb-test-helpers-2.0.3.tgz#07c0cda62e336efccd6000dc51eca2621b6e0380"
-  integrity sha512-SBoGtlWsKnlYSIpx9jskjXUzEz38XCCKVoPXO/mED7CzgpZojaAwMjMPZBg0h7zmVwfG8qXrTbgsPXlM96elfQ==
+vinberodb-test-helpers@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/vinberodb-test-helpers/-/vinberodb-test-helpers-2.0.4.tgz#52348dd1e2bedfc0bcdf4d5f83ccffedc67833c3"
+  integrity sha512-cHyt1kL3g3JXLDRKNU6XV7+VD1wKyHupsdENjtv5sne+yqg2EpkYbY1BYZMCzrc/W3MZSj9JDI+WN9sTwxs//g==
   dependencies:
     chai "^4.2.0"
     chai-as-promised "^7.1.1"
