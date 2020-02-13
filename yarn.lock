@@ -3590,11 +3590,6 @@ sinon-as-promised@^4.0.3:
     create-thenable "~1.0.0"
     native-promise-only "~0.8.1"
 
-sinon-chai@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.npmjs.org/sinon-chai/-/sinon-chai-3.3.0.tgz#8084ff99451064910fbe2c2cb8ab540c00b740ea"
-  integrity sha512-r2JhDY7gbbmh5z3Q62pNbrjxZdOAjpsqW/8yxAZRSqLZqowmfGZPGUZPFf3UX36NLis0cv8VEM5IJh9HgkSOAA==
-
 sinon-chai@^3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/sinon-chai/-/sinon-chai-3.4.0.tgz#06fb88dee80decc565106a3061d380007f21e18d"
@@ -4122,10 +4117,10 @@ vary@~1.1.2:
   resolved "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz#2299f02c6ded30d4a5961b0b9f74524a18f634fc"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
-vinberodb-test-helpers@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/vinberodb-test-helpers/-/vinberodb-test-helpers-3.0.0.tgz#7cdc808ba05c52929ebc2bec62d750817475a5d7"
-  integrity sha512-ndZMrBroaBOH+OoEnRzTcto6pNvI0PfIXFsLrfG2q17aMIG3ZK1qP4Dl3/36WErn4gn0diH+ji/J1glxEjNjug==
+vinberodb-test-helpers@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/vinberodb-test-helpers/-/vinberodb-test-helpers-3.0.1.tgz#a25e2eb4d2f21015ef3f1c61f584ee717f7fc4b0"
+  integrity sha512-X96l1jc4a44dbNU14c3smQBtomif0e1cLZPpML2ks7k5kjb3ddKQT2KUujTYL+GKxBsyEVHXUVUq68AMRjjLgA==
   dependencies:
     chai "^4.2.0"
     chai-as-promised "^7.1.1"
@@ -4133,7 +4128,7 @@ vinberodb-test-helpers@^3.0.0:
     dirty-chai "^2.0.1"
     sinon "^8.1.1"
     sinon-as-promised "^4.0.3"
-    sinon-chai "^3.3.0"
+    sinon-chai "^3.4.0"
 
 which-module@^2.0.0:
   version "2.0.0"
