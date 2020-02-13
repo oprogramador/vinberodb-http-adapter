@@ -1,6 +1,6 @@
 {
   "name": "vinberodb-http-adapter",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "An HTTP adapter for VinberoDB",
   "main": "build/index.js",
   "scripts": {
