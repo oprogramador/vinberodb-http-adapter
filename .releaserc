@@ -2,6 +2,7 @@
   branches: ['master'],
   plugins: [
     '@semantic-release/commit-analyzer',
+    '@semantic-release/npm',
     [
       '@semantic-release/git',
       {
@@ -9,6 +10,5 @@
         message: 'chore(release): ${nextRelease.version} [skip ci]',
       },
     ],
-    '@semantic-release/npm',
   ],
 }
