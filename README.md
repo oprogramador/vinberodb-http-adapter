@@ -6,3 +6,5 @@
 
 [![NPM status](https://nodei.co/npm/vinberodb-http-adapter.png?downloads=true&stars=true)](https://npmjs.org/package/vinberodb-http-adapter
 )
+
+An HTTP adapter for [vinberodb](https://github.com/oprogramador/vinberodb).
