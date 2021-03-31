@@ -19,7 +19,6 @@ jobs:
       node_js: 14
       script:
         - yarn install --non-interactive
-        - yarn prepublishOnly
         - npx semantic-release
 notifications:
   email:
